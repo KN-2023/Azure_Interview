@@ -1,0 +1,13 @@
+{
+	"name": "LS_RESTHTTP",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_RESTHTTP",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "RestResource",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

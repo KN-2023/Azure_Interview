@@ -1,0 +1,15 @@
+{
+	"name": "ADFInterviewKetaki",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b1326c34-6a41-4caf-82f9-caa3d6b5e098",
+		"tenantId": "f314ee75-1bd1-4fb9-925c-b86aff0af54c"
+	}
+}
