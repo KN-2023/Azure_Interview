@@ -1,0 +1,36 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ADFInterviewKetaki"
+		},
+		"LS_Datalake_accountKey": {
+			"value": ""
+		},
+		"ls_datalakeketaki_accountKey": {
+			"value": ""
+		},
+		"LS_Datalake_properties_typeProperties_url": {
+			"value": "https://azureinterviewketaki.dfs.core.windows.net/"
+		},
+		"LS_HTTP_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/anshlambagit/AzureInterviewQuestions/refs/heads/main/orders_data.csv"
+		},
+		"LS_RESTAPI_properties_typeProperties_url": {
+			"value": "https://openlibrary.org"
+		},
+		"LS_RESTHTTP_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/anshlambagit/AzureInterviewQuestions/refs/heads/main/orders_data.csv"
+		},
+		"ls_datalakeketaki_properties_typeProperties_url": {
+			"value": "https://azureinterviewketaki.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
